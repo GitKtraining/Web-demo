@@ -4,10 +4,11 @@ body {
     color: #333;
 }
 
-h1 {
-    color: #ff6347;
+.header {
+    color: #336699;
 }
 
-p {
+.content {
     font-size: 18px;
 }
+
